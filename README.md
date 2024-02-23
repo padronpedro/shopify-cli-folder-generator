@@ -30,7 +30,7 @@ The generator will create the following folder structure:
 
 ```bash
 .
-├-.git
+├── .git
 ├── assets
 ├── config
 ├── layout
