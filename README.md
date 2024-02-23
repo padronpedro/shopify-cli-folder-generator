@@ -24,13 +24,16 @@ git clone git@github.com:padronpedro/shopify-cli-folder-generator.git
  node generate client.myshopify.com
 ```
 
+## IMPORTANT
+
+> before creating a new branch, you have to git push the main branch, this will allow to push to the repo the templates files for first time
 ---
 
 The generator will create the following folder structure:
 
 ```bash
 .
-├── .git
+├-.git
 ├── assets
 ├── config
 ├── layout
@@ -76,7 +79,7 @@ assets/*.js.map
 ### Run dev environment alone
 
 ```bash
-shopify theme dev --store=moebe-dk.myshopify.com
+shopify theme dev --store=store.myshopify.com
 ```
 
 ## Pull content from Theme
