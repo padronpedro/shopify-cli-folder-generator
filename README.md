@@ -9,7 +9,7 @@ Javascript, Shopify CLI, Liquid
 ### Clone project from Github
 
 ```bash
-git clone git@github.com:signifly/generator-shopify-cli.git
+git clone git@github.com:padronpedro/shopify-cli-folder-generator.git
 ```
 
 ### Run generator
